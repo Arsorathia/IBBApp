@@ -1,2 +1,3 @@
-# Microscope
-Discover Meteor Tutorial 
+# IBB App
+Barebones Attribution App
+
